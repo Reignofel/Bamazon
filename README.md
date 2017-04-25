@@ -1,6 +1,6 @@
 Bamazon Store App
 
-This App will allow all customers, as well as registered managers and executives, to access product data, make purchases, check stock, and inventory.
+This App will allow all customers to access product data, make purchases, check stock, and inventory.
 
 Customer
 
